@@ -1,0 +1,50 @@
+.heading i{
+    color:red
+}
+.heading{
+    display:flex;
+    gap:2px;
+    padding:20px;
+    font-size:1.2rem;
+    color:white;
+}
+.icon{
+    display:flex;
+    justify-content: flex-end;
+    gap:20px;
+    padding:20px;
+    font-size:1.2rem;
+    
+}
+header{
+    display:flex;
+    justify-content: space-between;
+}
+.icon a{
+    text-decoration: none;
+    color:white
+}
+#middle{
+    display:flex;
+    padding:20px;
+    overflow-y:hidden;
+    gap:30px;
+    position:relative;
+    display: flex;
+    justify-content: space-between;
+}
+button{
+   width:120px;
+   height:30px;
+   border-radius: 10px;
+   border:1px solid;
+   background-color:gray
+}
+#middle a{
+    text-decoration: none;
+    color:black;
+    font-size:1.1rem
+}
+body{
+    background-color:black
+}
