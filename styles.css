@@ -119,3 +119,19 @@ img{
     padding-bottom: 100px;
    }
 }
+.icon i:hover{
+    background-color: gray;
+    border-radius: 50%;
+    
+}
+.icon i{
+    padding:10px
+}
+#middle a button:hover{
+       background-color:white;
+       cursor: pointer;
+}
+.video:hover{
+    background-color:rgb(27, 26, 26);
+
+}
